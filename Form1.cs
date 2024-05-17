@@ -9,10 +9,10 @@ namespace CS_0510
 
         private void button1_Click(object sender, EventArgs e)
         {
-            mybutton.Text = "‰Ÿ‚³‚ê‚½";
+            mybutton.Text = "‚ [‰Ÿ‚³‚ê‚¿‚á‚Á‚½";
             mybutton.Left = 0;
             //button1.Visible = false;
-            MessageBox.Show("‰½Œ©‚Ä‚ñ‚¾(^-^#) ");
+            MessageBox.Show("‰½Œ©‚Ä‚ñ‚¾(^-^#)ƒRƒmƒ„ƒ[");
         }
 
         private void button2_Click(object sender, EventArgs e)
